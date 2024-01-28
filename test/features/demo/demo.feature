@@ -19,4 +19,4 @@ Feature: Demo Feature
         Then i See the header <heading>
         Examples:
             | username | password | heading |
-            | revanth  | Rev@123  | Login   |
+            | revanth  | Rev@1234  | Login   |
